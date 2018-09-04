@@ -4,7 +4,7 @@ This is the Getting and Cleaning Data project
 The data source is as belows:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-I createed a tidy data set and the souce code in R called run_analysis.R to do the following:
+I createed a tidy data set by run_analysis.R to do the following:
     Merges the training and the test sets to create one data set.
     Extracts only the measurements on the mean and standard deviation for each measurement.
     Uses descriptive activity names to name the activities in the data set
